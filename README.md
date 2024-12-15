@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my UniversalSystems poject
 - 📫 You can reach me under my email, pengu@sky-network.org
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am loving penguins
+- ⚡ Fun fact: I really love penguins
 
 <!---
 CodingPengu007/CodingPengu007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

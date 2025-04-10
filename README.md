@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodingPengu007
 - 👀 I’m interested in python and java script (mostly browser games or minecraft plugin developement)
 - 🌱 I’m currently learning java scrypt
-- 💞️ I’m looking to collaborate on my UniversalSystems poject
+- 💞️ I’m looking to collaborate on my 0trace poject
 - 📫 You can reach me under my email, pengu@sky-network.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really love penguins
